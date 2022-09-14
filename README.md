@@ -3,9 +3,9 @@ Python-tutorial
 
 # Python Programming language 💻
 ## **Content**
-*  <a href="blob/master/Introduction.ipynb">Introduction</a>
-*  <a href="blob/master/Getting-Started.ipynb">Getting Started</a>
-*  <a href="blob/master/Python-Syntax.ipynb">Python Syntax</a>
+*  [Introduction](Introduction.ipynb)
+*  [Getting Started](Getting-Started.ipynb)
+*  [Python Syntax](Python-Syntax.ipynb)
 *  Variables
 *  Numerical types and Operations
 *  Srings
