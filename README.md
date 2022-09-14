@@ -3,9 +3,9 @@ Python-tutorial
 
 # Python Programming language 💻
 ## **Content**
-*  <a href="https://github.com/cherifbali/Python-tutorial/Introduction">Introduction</a>
-*  <a href="https://github.com/cherifbali/Python-tutorial/Getting-Started">Getting Started</a>
-*  <a href="https://github.com/cherifbali/Python-tutorial/Python-Syntax">Python Syntax</a>
+*  <a href="blob/master/Introduction.ipynb">Introduction</a>
+*  <a href="blob/master/Getting-Started.ipynb">Getting Started</a>
+*  <a href="blob/master/Python-Syntax.ipynb">Python Syntax</a>
 *  Variables
 *  Numerical types and Operations
 *  Srings
